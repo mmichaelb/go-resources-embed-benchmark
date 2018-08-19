@@ -25,8 +25,7 @@ order to determine which library scores best.
 ## Structure
 
 In this benchmark the libraries have to pack different types of files:
-- [HTML5 Boilerplate](https://html5boilerplate.com/) - it contains various files of different types 
-which represent a normal web project.
+- [test image](https://www.pexels.com/de/foto/bauernhof-bulle-draussen-farm-841303/)
 - JSON mock test data
 - youtube-dl binary
 
